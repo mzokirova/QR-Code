@@ -1,0 +1,22 @@
+{
+  "name": "qr-code-component-main",
+  "version": "1.0.0",
+  "description": "![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mzokirova/QR-Code.git"
+  },
+  "keywords": [
+    "qrCode"
+  ],
+  "author": "Mashkhura Zokirova",
+  "license": "SEE LICENCE IN <qr-code-component-main>",
+  "bugs": {
+    "url": "https://github.com/mzokirova/QR-Code/issues"
+  },
+  "homepage": "https://github.com/mzokirova/QR-Code#readme"
+}
